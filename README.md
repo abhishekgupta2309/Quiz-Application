@@ -24,6 +24,6 @@
 <img src="https://user-images.githubusercontent.com/111049326/235233241-ee91c65d-492b-4746-946b-71fdc5bc8654.png" alt="Score Page"style="width:50%">
 <br>
 <p> You can see the detail Video by Clicking 
-<a href="https://www.linkedin.com/posts/abhishekgupta2309_java-connections-project-activity-7057270228551933952-H6Tm?utm_source=share&utm_medium=member_desktop">Here</a></p>
+<a href="https://www.linkedin.com/posts/abhishekgupta2309_java-connections-project-activity-7057881179949068288-Ybjg?utm_source=share&utm_medium=member_desktop">Here</a></p>
 
 
